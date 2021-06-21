@@ -9,5 +9,5 @@ int main()
     testString.clear();	// set full string storage to 0
 
     getchar();
-    return 0x0;
+    return 0x0; // 0x0 -> undefined -> false -> 0
 }
